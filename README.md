@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=200&section=header&text=Sohib%20Emad&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Craftsman&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=200&section=header&text=Sohib%20Emad&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Cross-Platform%20App%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer+%F0%9F%92%99;Clean+Architecture+Enthusiast+%F0%9F%8F%97%EF%B8%8F;BLoC+%2F+Cubit+State+Management+%E2%9A%A1;Building+Cross-Platform+Apps+%F0%9F%93%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer+%F0%9F%92%99;Clean+Architecture+Enthusiast+%F0%9F%8F%97%EF%B8%8F;BLoC+%2F+Cubit+State+Management+%E2%9A%A1;Building+Cross-Platform+Apps+%F0%9F%93%B1;RESTful+API+Integration+%F0%9F%8C%90;MVVM+%26+Design+Patterns+%F0%9F%A7%A9)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 class SohibEmad extends FlutterDeveloper {
   final String name        = "Sohib Emad";
   final String role        = "Flutter Developer";
-  final String experience  = "1 year hands-on";
+  final String experience  = "2 years hands-on";
   final String location    = "Egypt 🇪🇬";
   final List<String> focus = [
     "Clean Architecture",
@@ -27,7 +27,7 @@ class SohibEmad extends FlutterDeveloper {
 }
 ```
 
-Motivated Flutter Developer with **1 year of hands-on experience** building cross-platform mobile applications using Dart. Proficient in **BLoC/Cubit** state management, **Clean Architecture** principles, and **RESTful API** integration. Passionate about writing maintainable, scalable code and eager to contribute to a professional dev team.
+Motivated Flutter Developer with **2 years of hands-on experience** building cross-platform mobile applications using Dart. Proficient in **BLoC/Cubit** state management, **Clean Architecture & MVVM** principles, and **RESTful API** integration. Passionate about writing maintainable, scalable code and eager to contribute to a professional dev team.
 
 ---
 
@@ -38,6 +38,7 @@ Motivated Flutter Developer with **1 year of hands-on experience** building cros
 ### 📱 Mobile Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Native%20Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
